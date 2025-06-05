@@ -1,6 +1,6 @@
 # 📊 Blinkit Sales Analysis Dashboard | Power BI Capstone Project
 
-![Dashboard Preview](./Screenshot%20(59).png)
+![Dashboard Preview](images/Screenshot (59).png)
 
 This Power BI Capstone Project presents a comprehensive analysis of sales data for **Blinkit – India's Last Minute App**, using real-world dataset exploration, data cleaning, and interactive visualization.
 
